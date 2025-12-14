@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Toscano 
 
 - 🔭 Sou um desenvolvedor FullStack
-- 🌱 Estudando React Native, Python, Analise de dados, Inteligencia Artificial
+- 🌱 Estudando Python, Analise de dados, Inteligencia Artificial
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bielango&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Bielango's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielango&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Bielango's GitHub Stats" />
@@ -12,6 +12,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <div> 
