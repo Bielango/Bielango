@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Gabriel Toscano 
 
-- 🔭 Sou um desenvolvedor FullStack
-- 🌱 Estudando Python, Analise de dados, Inteligencia Artificial
+- 👨🏻‍💼 Atualmente trabalhando como um Desenvolvedor Web FullStack em um aplicativo desenvolvido com Laravel.
+- 🔭 Tenho interesse na criação de inteligencia artificial e desenvolvimento de jogos.
+- 🌱 Cursando Sistemas de Informação na AEDB.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bielango&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Bielango's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielango&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Bielango's GitHub Stats" />
