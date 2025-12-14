@@ -1,8 +1,10 @@
-## Olá! Eu sou o Gabriel Toscano [ README EM CONSTRUÇÃO ]
+## Olá! Eu sou o Gabriel Toscano 
 
-- 🔭 Estou trabalhando com fullstack
-- 🌱 Estudando React Native
-- 😄 Pronomes: ele/dele
+- 🔭 Sou um desenvolvedor FullStack
+- 🌱 Estudando React Native, Python, Analise de dados, Inteligencia Artificial
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bielango&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Bielango's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielango&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Bielango's GitHub Stats" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
